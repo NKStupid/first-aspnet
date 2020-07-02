@@ -1,0 +1,4 @@
+.updatebot-repos
+bin
+obj
+src/.vs
